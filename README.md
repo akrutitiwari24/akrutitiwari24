@@ -1,8 +1,8 @@
 ## Hi, I'm Akruti Tiwari 👋
 
-🎓 B.Tech in Electronics & Communication Engineering with a Minor in Artificial Intelligence at IGDTUW
-🔬 Current Research Intern working on Concept Bottleneck Models and Interpretable Machine Learning
-🤖 Interested in Machine Learning, Computer Vision, Explainable AI, and Intelligent Systems
+* B.Tech in Electronics & Communication Engineering with a Minor in Artificial Intelligence at IGDTUW
+* Current Research Intern working on Concept Bottleneck Models and Interpretable Machine Learning
+* Interested in Machine Learning, Computer Vision, Explainable AI, and Intelligent Systems
 
 ---
 
@@ -28,17 +28,16 @@
 
 ### Tech Stack
 
-**Programming Languages:** C++, Python, SQL, R
-**Web Technologies:** HTML, CSS, JavaScript
-**AI & ML:** LLMs, Generative AI, Prompt Engineering
-**Developer Tools:** GitHub, VS Code, PyCharm, Chrome Extensions
+* Programming Languages: C++, Python, SQL, R
+* Web Technologies: HTML, CSS, JavaScript
+* AI & ML: LLMs, Generative AI, Prompt Engineering
+* Developer Tools: GitHub, VS Code, PyCharm, Chrome Extensions
 
 ---
 
 ### Competitive Programming
 
 * Regularly solving DSA and algorithmic problems
-* Interested in Dynamic Programming, Graphs, Greedy Algorithms, and Binary Search
 * Active across LeetCode, Codeforces, and CodeChef
 
 ---
