@@ -60,4 +60,4 @@
 
 ### Fun Fact
 
-I enjoy building projects that sit at the intersection of AI, research, and real-world impact!!
+I have an undying love for pani-puri and I love sudoku's!!!
